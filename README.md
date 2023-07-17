@@ -1,5 +1,6 @@
 to see the deployed website go to: https://promptopia-project-ten.vercel.app/
 this is a work in progress!
+![Image](./promptopia.png)
 
 
 
